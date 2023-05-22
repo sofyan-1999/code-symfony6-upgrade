@@ -1,8 +1,6 @@
 monolog:
-<<<<<<< ours
-    channels: ['markdown']
-=======
     channels:
+        - markdown
         - deprecation # Deprecations are logged in the dedicated "deprecation" channel when it exists
 
 when@dev:
@@ -62,4 +60,3 @@ when@prod:
                 type: stream
                 channels: [deprecation]
                 path: php://stderr
->>>>>>> theirs
