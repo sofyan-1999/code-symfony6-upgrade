@@ -5,6 +5,7 @@
       <change afterPath="$PROJECT_DIR$/config/preload.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/config/routes/framework.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/bootstrap.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/config/packages/framework.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/framework.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/packages/test/framework.yaml" beforeDir="false" />
@@ -214,7 +215,7 @@
       <updated>1679925717283</updated>
       <workItem from="1679925718939" duration="6000" />
       <workItem from="1679925743826" duration="3513000" />
-      <workItem from="1684740120121" duration="3593000" />
+      <workItem from="1684740120121" duration="4211000" />
     </task>
     <servers />
   </component>
